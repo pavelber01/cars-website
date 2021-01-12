@@ -2,3 +2,4 @@
 
 This project demonstrates these technologies:
 - CSS
+- HTML
